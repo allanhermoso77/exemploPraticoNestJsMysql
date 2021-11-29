@@ -103,15 +103,6 @@ The database tables are now set up and the prisma client is generated. For more 
 - `npm run test` - run Jest test runner 
 - `npm run start:prod` - Build application
 
-----------
-
-## API Specification
-
-This application adheres to the api specifications set by the [Thinkster](https://github.com/gothinkster) team. This helps mix and match any backend with any other frontend without conflicts.
-
-> [Full API Spec](https://github.com/gothinkster/realworld/tree/master/api)
-
-More information regarding the project can be found here https://github.com/gothinkster/realworld
 
 ----------
 
